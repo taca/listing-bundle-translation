@@ -1,0 +1,13 @@
+[main]
+host = https://www.transifex.com
+
+[contao-listing-bundle.v4_0-modules]
+file_filter = translations/contao-listing-bundle.v4_0-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_0-tl_module]
+file_filter = translations/contao-listing-bundle.v4_0-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
