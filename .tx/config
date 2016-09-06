@@ -11,3 +11,23 @@ file_filter = translations/contao-listing-bundle.v4_1-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[contao-listing-bundle.v4_2-modules]
+file_filter = translations/contao-listing-bundle.v4_2-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_2-tl_module]
+file_filter = translations/contao-listing-bundle.v4_2-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_3-modules]
+file_filter = translations/contao-listing-bundle.v4_3-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_3-tl_module]
+file_filter = translations/contao-listing-bundle.v4_3-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
