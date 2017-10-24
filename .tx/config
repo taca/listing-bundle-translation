@@ -1,16 +1,6 @@
 [main]
 host = https://www.transifex.com
 
-[contao-listing-bundle.v4_3-modules]
-file_filter = translations/contao-listing-bundle.v4_3-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[contao-listing-bundle.v4_3-tl_module]
-file_filter = translations/contao-listing-bundle.v4_3-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [contao-listing-bundle.v4_4-modules]
 file_filter = translations/contao-listing-bundle.v4_4-modules/<lang>.xlf
 source_lang = en
@@ -18,6 +8,16 @@ type = XLIFF
 
 [contao-listing-bundle.v4_4-tl_module]
 file_filter = translations/contao-listing-bundle.v4_4-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_5-modules]
+file_filter = translations/contao-listing-bundle.v4_5-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_5-tl_module]
+file_filter = translations/contao-listing-bundle.v4_5-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
