@@ -21,3 +21,13 @@ file_filter = translations/contao-listing-bundle.v4_5-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[contao-listing-bundle.v4_6-modules]
+file_filter = translations/contao-listing-bundle.v4_6-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-listing-bundle.v4_6-tl_module]
+file_filter = translations/contao-listing-bundle.v4_6-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
