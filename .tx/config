@@ -1,33 +1,33 @@
 [main]
 host = https://www.transifex.com
 
-[contao-listing-bundle.v4_4-modules]
-file_filter = translations/contao-listing-bundle.v4_4-modules/<lang>.xlf
+[listing-bundle.v4_4-modules]
+file_filter = translations/listing-bundle.v4_4-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-listing-bundle.v4_4-tl_module]
-file_filter = translations/contao-listing-bundle.v4_4-tl_module/<lang>.xlf
+[listing-bundle.v4_4-tl_module]
+file_filter = translations/listing-bundle.v4_4-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-listing-bundle.v4_7-modules]
-file_filter = translations/contao-listing-bundle.v4_7-modules/<lang>.xlf
+[listing-bundle.v4_7-modules]
+file_filter = translations/listing-bundle.v4_7-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-listing-bundle.v4_7-tl_module]
-file_filter = translations/contao-listing-bundle.v4_7-tl_module/<lang>.xlf
+[listing-bundle.v4_7-tl_module]
+file_filter = translations/listing-bundle.v4_7-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-listing-bundle.v4_8-modules]
-file_filter = translations/contao-listing-bundle.v4_8-modules/<lang>.xlf
+[listing-bundle.v4_8-modules]
+file_filter = translations/listing-bundle.v4_8-modules/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[contao-listing-bundle.v4_8-tl_module]
-file_filter = translations/contao-listing-bundle.v4_8-tl_module/<lang>.xlf
+[listing-bundle.v4_8-tl_module]
+file_filter = translations/listing-bundle.v4_8-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
