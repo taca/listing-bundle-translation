@@ -1,16 +1,6 @@
 [main]
 host = https://www.transifex.com
 
-[listing-bundle.v4_4-modules]
-file_filter = translations/listing-bundle.v4_4-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[listing-bundle.v4_4-tl_module]
-file_filter = translations/listing-bundle.v4_4-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [listing-bundle.v4_9-modules]
 file_filter = translations/listing-bundle.v4_9-modules/<lang>.xlf
 source_lang = en
