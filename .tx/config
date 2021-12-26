@@ -41,3 +41,12 @@ file_filter = translations/listing-bundle.v4_12-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[listing-bundle.v4_13-modules]
+file_filter = translations/listing-bundle.v4_13-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[listing-bundle.v4_13-tl_module]
+file_filter = translations/listing-bundle.v4_13-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
