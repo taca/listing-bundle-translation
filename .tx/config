@@ -11,16 +11,6 @@ file_filter = translations/listing-bundle.v4_9-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[listing-bundle.v4_11-modules]
-file_filter = translations/listing-bundle.v4_11-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[listing-bundle.v4_11-tl_module]
-file_filter = translations/listing-bundle.v4_11-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [listing-bundle.v4_12-modules]
 file_filter = translations/listing-bundle.v4_12-modules/<lang>.xlf
 source_lang = en
