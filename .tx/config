@@ -30,3 +30,13 @@ type = XLIFF
 file_filter = translations/listing-bundle.v5_0-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
+
+[listing-bundle.v5_1-modules]
+file_filter = translations/listing-bundle.v5_1-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[listing-bundle.v5_1-tl_module]
+file_filter = translations/listing-bundle.v5_1-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
